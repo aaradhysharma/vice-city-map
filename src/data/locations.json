@@ -1,0 +1,771 @@
+{
+  "version": "2.5.4",
+  "updated": "2026-11-01",
+  "theme": "bright-vice",
+  "disclaimer": "Marketing + parody IRL prototypes only — no game story spoilers. Matches are fan/press-reported, not Rockstar-official unless noted.",
+  "locations": [
+    {
+      "id": "kaseya-center",
+      "name": "Sahara Arena",
+      "realName": "Kaseya Center",
+      "parodyOf": "Kaseya Center → Sahara Arena",
+      "category": "arena",
+      "lat": 25.7814,
+      "lng": -80.1881,
+      "address": "601 Biscayne Blvd, Miami",
+      "whats_here": [
+        "In-game: Sahara Arena",
+        "IRL marketing: Welcome to Vice City rooftop sign",
+        "Burger Shot stands (sections 105, 120, 308, 324) and Cluckin' Bell (section 325) at Heat games",
+        "Blimp often spotted at night",
+        "GTA VI-wrapped bus spotted out front (Oct 26)"
+      ],
+      "events": [
+        {
+          "date": "2026-11-18",
+          "title": "Bucks @ Heat — Night in Vice City (blimp)"
+        }
+      ],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "hard-rock-stadium",
+      "name": "Hard Rock Stadium",
+      "realName": "Hard Rock Stadium",
+      "parodyOf": null,
+      "category": "stadium",
+      "lat": 25.9581,
+      "lng": -80.2389,
+      "address": "347 Don Shula Dr, Miami Gardens",
+      "whats_here": [
+        "Scheduled Vice City blimp flyovers",
+        "GTA stadium ads during games"
+      ],
+      "events": [
+        {
+          "date": "2026-11-01",
+          "title": "Patriots @ Dolphins (blimp)"
+        },
+        {
+          "date": "2026-11-14",
+          "title": "Duke @ Miami (blimp)"
+        },
+        {
+          "date": "2026-11-29",
+          "title": "Jets @ Dolphins (blimp)"
+        }
+      ],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "homestead-speedway",
+      "name": "Homestead-Miami Speedway",
+      "realName": "Homestead-Miami Speedway",
+      "parodyOf": null,
+      "category": "stadium",
+      "lat": 25.4519,
+      "lng": -80.4085,
+      "address": "1 Speedway Blvd, Homestead",
+      "whats_here": [
+        "Vice City blimp for NASCAR Championship Weekend"
+      ],
+      "events": [
+        {
+          "date": "2026-11-07",
+          "title": "NASCAR Championship Weekend (blimp through Nov 9)"
+        }
+      ],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "nine1nine",
+      "name": "NINE1NINE",
+      "realName": "E11EVEN",
+      "parodyOf": "E11EVEN → NINE1NINE",
+      "category": "club",
+      "lat": 25.7838,
+      "lng": -80.1935,
+      "address": "29 NE 11th St, Miami",
+      "whats_here": [
+        "Widely reported prototype for NINE1NINE",
+        "Banner-plane ads over South Beach",
+        "Club flew When Nine 1 Nine = E11EVEN response banner"
+      ],
+      "events": [
+        {
+          "date": "2026-11-06",
+          "title": "E11EVEN NINE1NINE Vice City night w/ Flo Rida (21+, doors 8pm; club event, not Rockstar)"
+        }
+      ],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "club-space",
+      "name": "Club Space take",
+      "realName": "Club Space",
+      "parodyOf": "Club Space → unnamed Vice City dance club",
+      "category": "club",
+      "lat": 25.7835,
+      "lng": -80.193,
+      "address": "34 NE 11th St, Miami",
+      "whats_here": [
+        "Trailer club interior linked to Space (planters / DJ booth)",
+        "Across from E11EVEN / NINE1NINE"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "jack-of-hearts",
+      "name": "Jack of Hearts",
+      "realName": "King of Diamonds",
+      "parodyOf": "King of Diamonds → Jack of Hearts",
+      "category": "club",
+      "lat": 25.891,
+      "lng": -80.2095,
+      "address": "50 NE 72nd St, Miami",
+      "whats_here": [
+        "Card-suit shuffle of King of Diamonds",
+        "Boobie Ike's club in showcase material"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "effluvia",
+      "name": "Effluvia",
+      "realName": "Serena rooftop / Moxy South Beach",
+      "parodyOf": "Juvia / Serena rooftop → Effluvia",
+      "category": "restaurant",
+      "lat": 25.7905,
+      "lng": -80.1295,
+      "address": "Moxy South Beach area, Collins Ave, Miami Beach",
+      "whats_here": [
+        "Rooftop bar prototype reported as Serena at Moxy / Juvia-era South Beach"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "shoreline-wheel",
+      "name": "Shoreline",
+      "realName": "Bayfront Park + Skyviews Miami",
+      "parodyOf": "Bayfront Park / Skyviews → Shoreline",
+      "category": "landmark",
+      "lat": 25.7753,
+      "lng": -80.186,
+      "address": "Bayfront Park, Biscayne Blvd, Miami",
+      "whats_here": [
+        "Waterfront park + observation wheel stand-in"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "hotel-boardwalk",
+      "name": "Hotel Boardwalk",
+      "realName": "Breakwater Hotel",
+      "parodyOf": "Breakwater Hotel → Hotel Boardwalk",
+      "category": "hotel",
+      "lat": 25.7808,
+      "lng": -80.1305,
+      "address": "940 Ocean Dr, Miami Beach",
+      "whats_here": [
+        "Ocean Drive Art Deco match"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "hotel-dixon",
+      "name": "Hotel Dixon",
+      "realName": "Hotel Victor South Beach",
+      "parodyOf": "Hotel Victor → Hotel Dixon",
+      "category": "hotel",
+      "lat": 25.7825,
+      "lng": -80.1308,
+      "address": "1144 Ocean Dr, Miami Beach",
+      "whats_here": [
+        "Name nod to architect L. Murray Dixon"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "w-south-beach",
+      "name": "Hotel Y",
+      "realName": "W South Beach",
+      "parodyOf": "W South Beach → Hotel Y (IRL takeover)",
+      "category": "hotel",
+      "lat": 25.794,
+      "lng": -80.1285,
+      "address": "2201 Collins Ave, Miami Beach",
+      "whats_here": [
+        "Closed W South Beach getting a Hotel Y facade banner (Collins Ave lane closure requested Nov 1–3)",
+        "Rooftop W swapped to a Y, planned live Nov 1 through Dec 31",
+        "Beachfront umbrellas & cabanas rebranded toward Hotel Y"
+      ],
+      "events": [
+        {
+          "date": "2026-11-01",
+          "title": "Hotel Y facade work window opens (Nov 1–3, per permit filing)"
+        }
+      ],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "fleeca-field",
+      "name": "Fleeca Field",
+      "realName": "loanDepot park",
+      "parodyOf": "loanDepot park → Fleeca Field",
+      "category": "stadium",
+      "lat": 25.7781,
+      "lng": -80.2197,
+      "address": "501 Marlins Way, Miami",
+      "whats_here": [
+        "White retractable-roof ballpark twin"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "galina-arsht",
+      "name": "Galina Ballet Opera House",
+      "realName": "Adrienne Arsht Center",
+      "parodyOf": "Arsht Center → Galina Ballet Opera House",
+      "category": "landmark",
+      "lat": 25.7877,
+      "lng": -80.189,
+      "address": "1300 Biscayne Blvd, Miami",
+      "whats_here": [
+        "Faceted performing-arts complex match"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "heath-tower",
+      "name": "Heath Tower",
+      "realName": "Miami Tower",
+      "parodyOf": "Miami Tower → Heath Tower",
+      "category": "landmark",
+      "lat": 25.772,
+      "lng": -80.1917,
+      "address": "100 SE 2nd St, Miami",
+      "whats_here": [
+        "Tiered tower with colored night bands"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "megamundo-tower",
+      "name": "Megamundo",
+      "realName": "One Biscayne Tower",
+      "parodyOf": "One Biscayne Tower → Megamundo",
+      "category": "landmark",
+      "lat": 25.7745,
+      "lng": -80.1885,
+      "address": "2 S Biscayne Blvd, Miami",
+      "whats_here": [
+        "Flared white base supports",
+        "Megamundo also on Wynwood kiosk ads"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "bohemia-wynwood",
+      "name": "Bohemia",
+      "realName": "2562 NW 2nd Ave Wynwood",
+      "parodyOf": "Wynwood mural shop → Bohemia",
+      "category": "art",
+      "lat": 25.8018,
+      "lng": -80.199,
+      "address": "2562 NW 2nd Ave, Miami",
+      "whats_here": [
+        "Mural storefront match near Wynwood Walls"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "wynwood-walls",
+      "name": "Wynwood Walls",
+      "realName": "Wynwood Walls",
+      "parodyOf": null,
+      "category": "art",
+      "lat": 25.801,
+      "lng": -80.1994,
+      "address": "2516 NW 2nd Ave, Miami",
+      "whats_here": [
+        "10 GTA murals through Jan 1 2027",
+        "Free Miami-Dade admission through 2028"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "wynwood-kiosks",
+      "name": "Wynwood parody brand kiosks",
+      "realName": "Wynwood digital kiosks",
+      "parodyOf": "In-game brands on real street kiosks",
+      "category": "ads",
+      "lat": 25.8015,
+      "lng": -80.199,
+      "address": "NW 26th St & NW 2nd Ave, Wynwood",
+      "whats_here": [
+        "Pfister, Weazel, Burger Shot, Sprunk, Grotti, Kronos, Kowalski, Eris…"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "biscayne-banner",
+      "name": "Downtown GTA 6 banner",
+      "realName": "146 Biscayne Blvd",
+      "parodyOf": null,
+      "category": "ads",
+      "lat": 25.7751,
+      "lng": -80.189,
+      "address": "146 Biscayne Blvd (Hotel YVE), Miami",
+      "whats_here": [
+        "Large purple GTA 6 banner, Nov 19 release date"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "miami-beach",
+      "name": "Miami Beach takeover",
+      "realName": "South Beach sand",
+      "parodyOf": null,
+      "category": "beach",
+      "lat": 25.7907,
+      "lng": -80.13,
+      "address": "Miami Beach / South Beach",
+      "whats_here": [
+        "Vice City chairs & umbrellas",
+        "NINE1NINE plane banners (E11EVEN energy)"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "little-haiti-bayo",
+      "name": "Little Haiti — BAYO",
+      "realName": "Little Haiti",
+      "parodyOf": null,
+      "category": "event",
+      "lat": 25.832,
+      "lng": -80.1915,
+      "address": "Little Haiti, Miami",
+      "whats_here": [
+        "Rockstar-sponsored free BAYO block party"
+      ],
+      "events": [
+        {
+          "date": "2026-11-22",
+          "title": "Free BAYO block party"
+        }
+      ],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "pompano-blimp-base",
+      "name": "Goodyear blimp base",
+      "realName": "Pompano Beach Airpark",
+      "parodyOf": null,
+      "category": "blimp",
+      "lat": 26.2465,
+      "lng": -80.111,
+      "address": "Pompano Beach airship base area",
+      "whats_here": [
+        "Wingfoot Three (N3A) Vice City livery home base"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "key-biscayne-cars",
+      "name": "Key Biscayne promo cars",
+      "realName": "Key Biscayne",
+      "parodyOf": null,
+      "category": "cars",
+      "lat": 25.6934,
+      "lng": -80.1628,
+      "address": "Key Biscayne",
+      "whats_here": [
+        "Rockstar / West Coast Customs promo convoy (may move)"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "americash-pawn",
+      "name": "Vice City Pawn",
+      "realName": "Americash Pawn Shop",
+      "parodyOf": "Americash Pawn → Vice City Pawn",
+      "category": "shop",
+      "lat": 25.7758,
+      "lng": -80.2005,
+      "address": "Americash Pawn, Miami",
+      "whats_here": [
+        "Yellow-and-blue pawn with exterior stair"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "simons-tires",
+      "name": "Simon's Tires",
+      "realName": "George's Tires and Repair",
+      "parodyOf": "George's Tires → Simon's Tires",
+      "category": "shop",
+      "lat": 25.7995,
+      "lng": -80.205,
+      "address": "George's Tires and Repair, Miami",
+      "whats_here": [
+        "Corner tire shop with roadside signs"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "vice-beach-sign",
+      "name": "Vice Beach sign",
+      "realName": "Lummus Park",
+      "parodyOf": "Lummus Park → Vice Beach",
+      "category": "beach",
+      "lat": 25.7822,
+      "lng": -80.1298,
+      "address": "Lummus Park near 1130 Ocean Dr, Miami Beach",
+      "whats_here": [
+        "Giant pink ~34 ft Vice BEACH letters on the grass north of 11th St",
+        "Install planned Oct 26–31 (permit was still pending as of Oct 23)",
+        "Stays up through the holidays, removal Jan 1–15"
+      ],
+      "events": [
+        {
+          "date": "2026-11-01",
+          "title": "Vice Beach sign planned go-live"
+        }
+      ],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "muscle-beach",
+      "name": "Vice Beach Muscle Beach",
+      "realName": "Muscle Beach South Beach",
+      "parodyOf": "Muscle Beach → pink Vice Beach gym",
+      "category": "beach",
+      "lat": 25.7788,
+      "lng": -80.1302,
+      "address": "873 Ocean Dr (near 9th St), Miami Beach",
+      "whats_here": [
+        "Workout gear getting pink epoxy + Vice Beach decals (night work from Oct 26)",
+        "Lummus Park lifeguard stands repainted pink & blue (VI decal not yet confirmed)"
+      ],
+      "events": [
+        {
+          "date": "2026-11-01",
+          "title": "Pink Muscle Beach planned go-live + city pull-up event on site"
+        }
+      ],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "lincoln-road-vi",
+      "name": "VI sculpture (planned)",
+      "realName": "Lincoln Road Mall",
+      "parodyOf": null,
+      "category": "ads",
+      "lat": 25.7906,
+      "lng": -80.1367,
+      "address": "689 Lincoln Rd, Miami Beach",
+      "whats_here": [
+        "10 ft VI sculpture approved in the Miami Beach deal",
+        "Needs a Lincoln Road BID permit; not confirmed installed"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "vice-city-bean",
+      "name": "Vice City Bean — Leonida blend",
+      "realName": "Vice City Bean",
+      "parodyOf": null,
+      "category": "shop",
+      "lat": 25.7916,
+      "lng": -80.1956,
+      "address": "1657 N Miami Ave, Miami",
+      "whats_here": [
+        "Limited GTA VI 'Leonida' coffee blend, $23 per 10 oz bag",
+        "Cafés decked out in VI branding; pickup at this location"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "panther-coffee-wynwood",
+      "name": "Panther Coffee VI window",
+      "realName": "Panther Coffee Wynwood",
+      "parodyOf": null,
+      "category": "shop",
+      "lat": 25.8003,
+      "lng": -80.1994,
+      "address": "2390 NW 2nd Ave, Miami",
+      "whats_here": [
+        "Palm-tree VI logo on the storefront window",
+        "Steps from the Wynwood kiosks and Wynwood Walls murals"
+      ],
+      "events": [],
+      "addedOn": "2026-10-26"
+    },
+    {
+      "id": "burger-shot-wynwood",
+      "name": "Burger Shot — Wynwood",
+      "realName": "Skinny Louie Wynwood",
+      "parodyOf": "Skinny Louie → Burger Shot",
+      "category": "restaurant",
+      "lat": 25.79995,
+      "lng": -80.2009,
+      "address": "322 NW 24th St, Miami",
+      "whats_here": [
+        "Skinny Louie becomes Burger Shot (signage, uniforms, packaging) from early November through Dec 31; dine-in and delivery",
+        "Announced Burger Shot menu: The Bleeder (triple), Burger Shot double and single, caramel milkshake",
+        "Skinny Louie's original spot"
+      ],
+      "events": [],
+      "addedOn": "2026-10-27"
+    },
+    {
+      "id": "burger-shot-little-havana",
+      "name": "Burger Shot — Little Havana",
+      "realName": "Skinny Louie Little Havana",
+      "parodyOf": "Skinny Louie → Burger Shot",
+      "category": "restaurant",
+      "lat": 25.76587,
+      "lng": -80.22066,
+      "address": "1551 SW 8th St, Miami",
+      "whats_here": [
+        "Skinny Louie becomes Burger Shot (signage, uniforms, packaging) from early November through Dec 31; dine-in and delivery",
+        "Announced Burger Shot menu: The Bleeder (triple), Burger Shot double and single, caramel milkshake",
+        "On Calle Ocho"
+      ],
+      "events": [],
+      "addedOn": "2026-10-27"
+    },
+    {
+      "id": "burger-shot-coral-gables",
+      "name": "Burger Shot — Coral Gables",
+      "realName": "Skinny Louie Coral Gables",
+      "parodyOf": "Skinny Louie → Burger Shot",
+      "category": "restaurant",
+      "lat": 25.75141,
+      "lng": -80.25783,
+      "address": "153 Giralda Ave, Coral Gables",
+      "whats_here": [
+        "Skinny Louie becomes Burger Shot (signage, uniforms, packaging) from early November through Dec 31; dine-in and delivery",
+        "Announced Burger Shot menu: The Bleeder (triple), Burger Shot double and single, caramel milkshake",
+        "On the Giralda Ave pedestrian strip"
+      ],
+      "events": [],
+      "addedOn": "2026-10-27"
+    },
+    {
+      "id": "burger-shot-south-miami",
+      "name": "Burger Shot — South Miami",
+      "realName": "Skinny Louie South Miami",
+      "parodyOf": "Skinny Louie → Burger Shot",
+      "category": "restaurant",
+      "lat": 25.70253,
+      "lng": -80.29137,
+      "address": "6022 S Dixie Hwy, South Miami",
+      "whats_here": [
+        "Skinny Louie becomes Burger Shot (signage, uniforms, packaging) from early November through Dec 31; dine-in and delivery",
+        "Announced Burger Shot menu: The Bleeder (triple), Burger Shot double and single, caramel milkshake",
+        "Off US-1"
+      ],
+      "events": [],
+      "addedOn": "2026-10-27"
+    },
+    {
+      "id": "burger-shot-aventura",
+      "name": "Burger Shot — Aventura",
+      "realName": "Skinny Louie Aventura",
+      "parodyOf": "Skinny Louie → Burger Shot",
+      "category": "restaurant",
+      "lat": 25.96651,
+      "lng": -80.1431,
+      "address": "2920 NE 207th St, Aventura",
+      "whats_here": [
+        "Skinny Louie becomes Burger Shot (signage, uniforms, packaging) from early November through Dec 31; dine-in and delivery",
+        "Announced Burger Shot menu: The Bleeder (triple), Burger Shot double and single, caramel milkshake",
+        "Also in Broward/Palm Beach: Dania Beach, Lauderdale-by-the-Sea, West Palm Beach"
+      ],
+      "events": [],
+      "addedOn": "2026-10-27"
+    },
+    {
+      "id": "sanguich-little-havana",
+      "name": "Sanguich — Vice City Special",
+      "realName": "Sanguich de Miami",
+      "parodyOf": null,
+      "category": "restaurant",
+      "lat": 25.76539,
+      "lng": -80.22861,
+      "address": "2057 SW 8th St, Miami",
+      "whats_here": [
+        "Announced 'Vice City Special' limited Cuban sandwich (Sanguich x GTA VI)",
+        "Vice City artwork by Miami graffiti collective MSG Crew",
+        "Select locations only; date, price and recipe not announced yet"
+      ],
+      "events": [],
+      "addedOn": "2026-10-27"
+    },
+    {
+      "id": "clevelander",
+      "name": "Ocean View Hotel",
+      "realName": "Clevelander South Beach",
+      "parodyOf": "Clevelander → Ocean View Hotel (fan/press match)",
+      "category": "hotel",
+      "lat": 25.78027,
+      "lng": -80.13056,
+      "address": "1020 Ocean Dr, Miami Beach",
+      "whats_here": [
+        "GTA VI takeover spotted Oct 26–27: VI logo lit up across the front",
+        "'Welcome to Vice City' sign inside the bar/pool area",
+        "Fans match it to Vice City's Ocean View Hotel"
+      ],
+      "events": [],
+      "addedOn": "2026-10-27"
+    },
+    {
+      "id": "zak-the-baker",
+      "name": "Stock 305",
+      "realName": "Zak the Baker",
+      "parodyOf": "Zak the Baker building → Stock 305 (fan/press match)",
+      "category": "shop",
+      "lat": 25.80105,
+      "lng": -80.20014,
+      "address": "295 NW 26th St, Miami (Wynwood)",
+      "whats_here": [
+        "Pink-and-purple Vice City-style delivery truck wraps, spotted in Wynwood and Edgewater",
+        "Building fans match to the Stock 305 storefront",
+        "Official Rockstar collab not confirmed; trucks roam, not a fixed install"
+      ],
+      "events": [],
+      "addedOn": "2026-10-27"
+    },
+    {
+      "id": "watson-island-vice-city-sign",
+      "name": "VICE CITY sign",
+      "realName": "Watson Island (MacArthur Causeway)",
+      "parodyOf": "MacArthur Causeway / Watson Island → the giant VICE CITY letters from the game",
+      "category": "landmark",
+      "lat": 25.7853,
+      "lng": -80.176,
+      "address": "Watson Island along the MacArthur Causeway, Miami",
+      "whats_here": [
+        "Towering white VICE CITY letters going up beside the causeway, matching the in-game landmark",
+        "Photos started circulating Oct 28; best seen driving the causeway toward South Beach"
+      ],
+      "events": [],
+      "addedOn": "2026-10-29"
+    },
+    {
+      "id": "mia-central-garden",
+      "name": "Vice City lights at MIA",
+      "realName": "Miami International Airport Central Garden",
+      "parodyOf": null,
+      "category": "landmark",
+      "lat": 25.796,
+      "lng": -80.278,
+      "address": "Central Garden courtyard outside Terminal E, MIA",
+      "whats_here": [
+        "Blue-and-pink GTA light installation in the courtyard (county deal announced Oct 28)",
+        "Part of a nearly $4M Miami-Dade promo package"
+      ],
+      "events": [],
+      "addedOn": "2026-10-29"
+    },
+    {
+      "id": "portmiami-cranes",
+      "name": "Vice City port cranes",
+      "realName": "PortMiami",
+      "parodyOf": null,
+      "category": "landmark",
+      "lat": 25.774,
+      "lng": -80.165,
+      "address": "PortMiami cargo cranes, Dodge Island",
+      "whats_here": [
+        "Giant cargo cranes to be lit in GTA pink and blue (county deal announced Oct 28)",
+        "Viewable at night from Bayside, the MacArthur Causeway, and Brickell",
+        "Miami-Dade traffic utility boxes are also getting pink-and-blue wraps around the county"
+      ],
+      "events": [],
+      "addedOn": "2026-10-29"
+    },
+    {
+      "id": "underline-vi-chairs",
+      "name": "VI chairs on The Underline",
+      "realName": "The Underline (Brickell)",
+      "parodyOf": null,
+      "category": "art",
+      "lat": 25.765,
+      "lng": -80.196,
+      "address": "The Underline linear park under Metrorail, Brickell",
+      "whats_here": [
+        "Chairs with the GTA VI logo have popped up along the park under Metrorail"
+      ],
+      "events": [],
+      "addedOn": "2026-10-29"
+    },
+    {
+      "id": "kaseya-lot-billboards",
+      "name": "Juice Loose + Macca & Friends billboards",
+      "realName": "Kaseya Center parking lot",
+      "parodyOf": "In-game brands on real downtown billboards",
+      "category": "ads",
+      "lat": 25.7826,
+      "lng": -80.1877,
+      "address": "Kaseya Center surface lot, Biscayne Blvd & NE 8th St, Miami",
+      "whats_here": [
+        "'Juice Loose' juice billboard (in-game brand)",
+        "'Macca & Friends' cartoon billboard — 'coming November 19 on Weazel'",
+        "Reported in front of the Kaseya Center parking lot by a visitor (Nov 1)",
+        "Source: Output Lag — https://outputlag.com/featured-slider/gta-6-fake-brands-real-miami-billboards-launch-date/"
+      ],
+      "events": [],
+      "addedOn": "2026-11-01"
+    }
+  ],
+  "blimp_schedule": [
+    {
+      "date": "2026-11-01",
+      "venue": "Hard Rock Stadium",
+      "event": "Patriots @ Dolphins"
+    },
+    {
+      "date": "2026-11-07",
+      "venue": "Homestead-Miami Speedway",
+      "event": "NASCAR Championship Weekend (through Nov 9)"
+    },
+    {
+      "date": "2026-11-14",
+      "venue": "Hard Rock Stadium",
+      "event": "Duke @ Miami"
+    },
+    {
+      "date": "2026-11-18",
+      "venue": "Kaseya Center / Sahara Arena",
+      "event": "Bucks @ Heat — Night in Vice City"
+    },
+    {
+      "date": "2026-11-29",
+      "venue": "Hard Rock Stadium",
+      "event": "Jets @ Dolphins"
+    }
+  ]
+}
