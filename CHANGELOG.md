@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.5.5 — 2026-11-04
+- Club Space pin renamed to The Vault (its reported Vice City name) with the reported Nov 20–22 launch weekend.
+
 ## v2.5.4 — 2026-11-02
 - Marker icons are now emoji on white pin heads with a coloured ring (🪩 club, 🍽️ restaurant, 🎈 blimp, 🪧 ads…), replacing thin line glyphs that were hard to read.
 - Filter chips show their icon; the legend shows an icon per category.

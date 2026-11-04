@@ -1,5 +1,5 @@
 {
-  "version": "2.5.4",
+  "version": "2.5.5",
   "updated": "2026-11-01",
   "theme": "bright-vice",
   "disclaimer": "Marketing + parody IRL prototypes only — no game story spoilers. Matches are fan/press-reported, not Rockstar-official unless noted.",
@@ -101,18 +101,23 @@
     },
     {
       "id": "club-space",
-      "name": "Club Space take",
+      "name": "The Vault",
       "realName": "Club Space",
-      "parodyOf": "Club Space → unnamed Vice City dance club",
+      "parodyOf": "Club Space → The Vault",
       "category": "club",
       "lat": 25.7835,
       "lng": -80.193,
       "address": "34 NE 11th St, Miami",
       "whats_here": [
-        "Trailer club interior linked to Space (planters / DJ booth)",
+        "Space is reportedly The Vault, its Vice City club, per CULTR",
         "Across from E11EVEN / NINE1NINE"
       ],
-      "events": [],
+      "events": [
+        {
+          "date": "2026-11-20",
+          "title": "Reported \"The Vault\" GTA VI launch weekend, Nov 20–22 (club event, lineup unconfirmed, not announced by Rockstar)"
+        }
+      ],
       "addedOn": "2026-10-26"
     },
     {

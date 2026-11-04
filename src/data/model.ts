@@ -1,6 +1,6 @@
 import raw from './locations.json'
 
-export const APP_VERSION = '2.5.4'
+export const APP_VERSION = '2.5.5'
 
 export type Category =
   | 'arena'
