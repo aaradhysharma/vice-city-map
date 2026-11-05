@@ -779,6 +779,22 @@
       ],
       "events": [],
       "addedOn": "2026-11-05"
+    },
+    {
+      "id": "jason-lucia-i95",
+      "name": "Jason & Lucia billboard",
+      "realName": "14 SW 2nd Ave (by YTECH)",
+      "parodyOf": null,
+      "category": "ads",
+      "lat": 25.7744,
+      "lng": -80.1956,
+      "address": "14 SW 2nd Ave, Miami (visible from I-95 overpass)",
+      "whats_here": [
+        "Cover-art roadside billboard with Jason & Lucia, lit at night",
+        "First seen Nov 2 — sources: Miami GTA Tours; @user086611 / @OfficialJoelF"
+      ],
+      "events": [],
+      "addedOn": "2026-11-05"
     }
   ],
   "blimp_schedule": [

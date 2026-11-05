@@ -6,6 +6,7 @@
 - NINE1NINE (E11EVEN) upgraded to a month-long takeover Nov 6–Dec 6, Flo Rida opening night + Nov 20 launch party.
 - Shoreline / Bayside pin notes Pier VI sign, themed wheel lighting, and Vice City jet ski.
 - New pin: Zenith Gym (BOXR Gym, 1310 NE 1st Ave) — in-game gym takeover, first seen Nov 3.
+- New pin: Jason & Lucia cover-art billboard by I-95 (14 SW 2nd Ave), first seen Nov 2.
 
 ## v2.5.5 — 2026-11-04
 - Club Space pin renamed to The Vault (its reported Vice City name) with the reported Nov 20–22 launch weekend.
