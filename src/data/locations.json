@@ -1,6 +1,6 @@
 {
   "version": "2.5.5",
-  "updated": "2026-11-01",
+  "updated": "2026-11-05",
   "theme": "bright-vice",
   "disclaimer": "Marketing + parody IRL prototypes only — no game story spoilers. Matches are fan/press-reported, not Rockstar-official unless noted.",
   "locations": [
@@ -446,14 +446,19 @@
       "lng": -80.1298,
       "address": "Lummus Park near 1130 Ocean Dr, Miami Beach",
       "whats_here": [
-        "Giant pink ~34 ft Vice BEACH letters on the grass north of 11th St",
-        "Install planned Oct 26–31 (permit was still pending as of Oct 23)",
-        "Stays up through the holidays, removal Jan 1–15"
+        "Giant pink ~34 ft steel Vice BEACH letters on the Lummus Park lawn at 1130 Ocean Dr / 11th St",
+        "Finished morning of Nov 4 (three days after planned Nov 1 go-live)",
+        "Covered or moved for Art Week Nov 29–Dec 6; comes down by Jan 15, 2027",
+        "Sources: Miami GTA Tours; @MookBot via @gtasix_ / @GTAVI_Countdown"
       ],
       "events": [
         {
-          "date": "2026-11-01",
-          "title": "Vice Beach sign planned go-live"
+          "date": "2026-11-04",
+          "title": "Vice BEACH letters finished / installed at Lummus Park"
+        },
+        {
+          "date": "2026-11-29",
+          "title": "Art Week: letters covered or moved (through Dec 6)"
         }
       ],
       "addedOn": "2026-10-26"
