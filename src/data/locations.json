@@ -762,6 +762,23 @@
       ],
       "events": [],
       "addedOn": "2026-11-01"
+    },
+    {
+      "id": "zenith-gym",
+      "name": "Zenith Gym",
+      "realName": "BOXR Gym",
+      "parodyOf": "BOXR Gym → Zenith Gym",
+      "category": "shop",
+      "lat": 25.7886,
+      "lng": -80.1919,
+      "address": "1310 NE 1st Ave, Park West, Miami",
+      "whats_here": [
+        "Members-only gym dressed as in-game Zenith Gym (fake sign over the door + Vice City neon)",
+        "Pink VI neon, Narcos wall graphic, Welcome to Vice City projection inside",
+        "First seen Nov 3 — sources: Miami GTA Tours; u/arcpavong"
+      ],
+      "events": [],
+      "addedOn": "2026-11-05"
     }
   ],
   "blimp_schedule": [
