@@ -87,14 +87,23 @@
       "lng": -80.1935,
       "address": "29 NE 11th St, Miami",
       "whats_here": [
-        "Widely reported prototype for NINE1NINE",
-        "Banner-plane ads over South Beach",
-        "Club flew When Nine 1 Nine = E11EVEN response banner"
+        "E11EVEN transforms into NINE1NINE for a month-long takeover (Nov 6–Dec 6)",
+        "Venue signage/branding reimagined as NINE1NINE; merch at nine1nine.club",
+        "Club event (not announced by Rockstar)",
+        "Sources: E11EVEN / PR Newswire Nov 5; 11miami.com"
       ],
       "events": [
         {
           "date": "2026-11-06",
-          "title": "E11EVEN NINE1NINE Vice City night w/ Flo Rida (21+, doors 8pm; club event, not Rockstar)"
+          "title": "NINE1NINE grand opening w/ Flo Rida (21+, doors ~8pm; tickets via nine1nine.club / Speakeasy)"
+        },
+        {
+          "date": "2026-11-20",
+          "title": "NINE1NINE GTA VI launch party (artist TBA; club event)"
+        },
+        {
+          "date": "2026-12-06",
+          "title": "Month-long NINE1NINE takeover ends"
         }
       ],
       "addedOn": "2026-10-26"
