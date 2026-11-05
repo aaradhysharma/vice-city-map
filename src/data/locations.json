@@ -795,6 +795,22 @@
       ],
       "events": [],
       "addedOn": "2026-11-05"
+    },
+    {
+      "id": "enriqueta-vice-city-cuban",
+      "name": "Vice City Cuban",
+      "realName": "Enriqueta's Sandwich Shop",
+      "parodyOf": null,
+      "category": "restaurant",
+      "lat": 25.805,
+      "lng": -80.1919,
+      "address": "186 NE 29th St, Edgewater, Miami",
+      "whats_here": [
+        "Pink menu card with VI logo: Vice City Cuban (ham, pork, chorizo, Swiss, onion, potato sticks) ~$17",
+        "First seen Nov 4 — sources: Miami GTA Tours; @IPieroBs"
+      ],
+      "events": [],
+      "addedOn": "2026-11-05"
     }
   ],
   "blimp_schedule": [
