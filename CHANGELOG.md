@@ -2,6 +2,7 @@
 
 ## v2.5.6 — 2026-11-05
 - Vice Beach sign at Lummus Park confirmed installed (pink ~34 ft letters finished Nov 4).
+- PortMiami pin renamed Port Vice City after hangar Welcome banner spotted Nov 4.
 
 ## v2.5.5 — 2026-11-04
 - Club Space pin renamed to The Vault (its reported Vice City name) with the reported Nov 20–22 launch weekend.

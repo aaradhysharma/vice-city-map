@@ -702,17 +702,18 @@
     },
     {
       "id": "portmiami-cranes",
-      "name": "Vice City port cranes",
+      "name": "Port Vice City",
       "realName": "PortMiami",
-      "parodyOf": null,
+      "parodyOf": "PortMiami → Port Vice City",
       "category": "landmark",
       "lat": 25.774,
       "lng": -80.165,
       "address": "PortMiami cargo cranes, Dodge Island",
       "whats_here": [
-        "Giant cargo cranes to be lit in GTA pink and blue (county deal announced Oct 28)",
-        "Viewable at night from Bayside, the MacArthur Causeway, and Brickell",
-        "Miami-Dade traffic utility boxes are also getting pink-and-blue wraps around the county"
+        "Huge blue hangar banner: Welcome to Port Vice City (photographed Nov 4)",
+        "Cargo cranes still planned for pink/blue lighting under the Miami-Dade deal (not confirmed lit yet)",
+        "Viewable from Bayside, the MacArthur Causeway, and Brickell",
+        "Sources: @videotech (via @dez8907); vice-central.com"
       ],
       "events": [],
       "addedOn": "2026-10-29"
