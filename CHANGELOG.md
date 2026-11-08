@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.5.7 — 2026-11-08
+- MIA pin: terminal ads photographed Nov 6 — Welcome to Vice City corridor mural, Macca & Friends poster, and Zenith Gym poster (likely a check-in area; terminal not named).
+- Homestead blimp note: Cup Series championship race Sun Nov 8, 3pm ET.
+
+
 ## v2.5.6 — 2026-11-05
 - Vice Beach sign at Lummus Park confirmed installed (pink ~34 ft letters finished Nov 4).
 - PortMiami pin renamed Port Vice City after hangar Welcome banner spotted Nov 4.
