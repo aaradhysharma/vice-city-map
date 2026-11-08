@@ -1,6 +1,6 @@
 {
-  "version": "2.5.6",
-  "updated": "2026-11-05",
+  "version": "2.5.7",
+  "updated": "2026-11-08",
   "theme": "bright-vice",
   "disclaimer": "Marketing + parody IRL prototypes only — no game story spoilers. Matches are fan/press-reported, not Rockstar-official unless noted.",
   "locations": [
@@ -67,12 +67,13 @@
       "lng": -80.4085,
       "address": "1 Speedway Blvd, Homestead",
       "whats_here": [
-        "Vice City blimp for NASCAR Championship Weekend"
+        "Vice City blimp for NASCAR Championship Weekend",
+        "Cup Series championship race Sun Nov 8, 3pm ET (NBC) — Goodyear confirmed the Vice City blimp overhead for the weekend"
       ],
       "events": [
         {
-          "date": "2026-11-07",
-          "title": "NASCAR Championship Weekend (blimp through Nov 9)"
+          "date": "2026-11-08",
+          "title": "NASCAR Cup Series Championship Race, 3pm ET (Vice City blimp)"
         }
       ],
       "addedOn": "2026-10-26"
@@ -698,16 +699,19 @@
     },
     {
       "id": "mia-central-garden",
-      "name": "Vice City lights at MIA",
-      "realName": "Miami International Airport Central Garden",
+      "name": "Vice City at MIA",
+      "realName": "Miami International Airport",
       "parodyOf": null,
       "category": "landmark",
       "lat": 25.796,
       "lng": -80.278,
-      "address": "Central Garden courtyard outside Terminal E, MIA",
+      "address": "Miami International Airport (Central Garden courtyard outside Terminal E; terminal ads also spotted in a check-in area)",
       "whats_here": [
-        "Blue-and-pink GTA light installation in the courtyard (county deal announced Oct 28)",
-        "Part of a nearly $4M Miami-Dade promo package"
+        "Blue-and-pink GTA light installation in the Central Garden courtyard (county deal announced Oct 28)",
+        "Part of a nearly $4M Miami-Dade promo package",
+        "Terminal ads first photographed Nov 6: a pink Welcome to Vice City corridor mural, a Macca & Friends poster (“Coming November 19 on Weazel”), and a Zenith Gym poster",
+        "Photos show LOT Polish Airlines queue barriers, so the ads are likely in a check-in area; the original post did not name the terminal",
+        "Sources: Reddit u/Sled14; Leonida Hub — https://leonidahub.org/en/news/miami-s-airport-gets-gta-vi-ads-a-welcome-to-vice-city-mural-macca-friends-and-zenith-gym"
       ],
       "events": [],
       "addedOn": "2026-10-29"
@@ -820,9 +824,9 @@
       "event": "Patriots @ Dolphins"
     },
     {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "venue": "Homestead-Miami Speedway",
-      "event": "NASCAR Championship Weekend (through Nov 9)"
+      "event": "NASCAR Championship Weekend (Cup race Sun Nov 8, 3pm ET)"
     },
     {
       "date": "2026-11-14",
