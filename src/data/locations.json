@@ -1,6 +1,6 @@
 {
-  "version": "2.5.7",
-  "updated": "2026-11-08",
+  "version": "2.5.8",
+  "updated": "2026-11-12",
   "theme": "bright-vice",
   "disclaimer": "Marketing + parody IRL prototypes only — no game story spoilers. Matches are fan/press-reported, not Rockstar-official unless noted.",
   "locations": [
@@ -818,6 +818,28 @@
       ],
       "events": [],
       "addedOn": "2026-11-05"
+    },
+    {
+      "id": "gta-vi-festival-mana",
+      "name": "GTA VI: The Festival",
+      "realName": "Mana Wynwood",
+      "parodyOf": null,
+      "category": "event",
+      "lat": 25.8015,
+      "lng": -80.2058,
+      "address": "2550 NW 2nd Ave, Miami",
+      "whats_here": [
+        "Rockstar launch festival presented with PlayStation and III Points",
+        "Reported lineup: Travis Scott, Don Toliver, Kodak Black, Cardi B, Metro Boomin",
+        "Ticket lottery closed Nov 10; tickets via DICE, ages 17+"
+      ],
+      "events": [
+        {
+          "date": "2026-11-21",
+          "title": "GTA VI: The Festival"
+        }
+      ],
+      "addedOn": "2026-11-12"
     }
   ],
   "blimp_schedule": [

@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.5.8 — 2026-11-12
+- New pin: GTA VI: The Festival at Mana Wynwood (2550 NW 2nd Ave), Sat Nov 21 — Rockstar launch festival; ticket lottery closed Nov 10, tickets via DICE, ages 17+.
+- Kaseya Center pin: Nov 18 A Night in Vice City notes (Nike x Cactus Jack uniforms, one-night court, apparel at HEAT Store).
+
 ## v2.5.7 — 2026-11-08
 - MIA pin: terminal ads photographed Nov 6 — Welcome to Vice City corridor mural, Macca & Friends poster, and Zenith Gym poster (likely a check-in area; terminal not named).
 - Homestead blimp note: Cup Series championship race Sun Nov 8, 3pm ET.
