@@ -1,6 +1,6 @@
 {
-  "version": "2.5.8",
-  "updated": "2026-11-12",
+  "version": "2.5.9",
+  "updated": "2026-11-18",
   "theme": "bright-vice",
   "disclaimer": "Marketing + parody IRL prototypes only — no game story spoilers. Matches are fan/press-reported, not Rockstar-official unless noted.",
   "locations": [
@@ -26,7 +26,7 @@
       "events": [
         {
           "date": "2026-11-18",
-          "title": "Bucks @ Heat — A Night in Vice City (jerseys, special court, blimp)"
+          "title": "Bucks @ Heat — A Night in Vice City (jerseys, special court)"
         }
       ],
       "addedOn": "2026-10-26"
@@ -840,6 +840,28 @@
         }
       ],
       "addedOn": "2026-11-12"
+    },
+    {
+      "id": "clevelander-launch-party",
+      "name": "Welcome to Vice City Launch Party",
+      "realName": "Clevelander South Beach",
+      "parodyOf": null,
+      "category": "event",
+      "lat": 25.7797,
+      "lng": -80.1304,
+      "address": "1020 Ocean Dr, Miami Beach",
+      "whats_here": [
+        "Official launch partner party: merch, giveaways, game-copy raffle, soundtrack",
+        "Vice Frozen Margaritas and in-game beers, limited time",
+        "Free, 21+, registration online (Eventbrite)"
+      ],
+      "events": [
+        {
+          "date": "2026-11-19",
+          "title": "GTA VI launch party, 5–10pm"
+        }
+      ],
+      "addedOn": "2026-11-18"
     }
   ],
   "blimp_schedule": [
