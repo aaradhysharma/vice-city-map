@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.5.9 — 2026-11-18
+- New pin: Welcome to Vice City launch party at Clevelander South Beach, Thu Nov 19, 5–10pm, free, 21+, registration online.
+- Kaseya Center event note: removed blimp mention (Goodyear dropped the Nov 18 date from its schedule).
+
 ## v2.5.8 — 2026-11-12
 - New pin: GTA VI: The Festival at Mana Wynwood (2550 NW 2nd Ave), Sat Nov 21 — Rockstar launch festival; ticket lottery closed Nov 10, tickets via DICE, ages 17+.
 - Kaseya Center pin: Nov 18 A Night in Vice City notes (Nike x Cactus Jack uniforms, one-night court, apparel at HEAT Store).
