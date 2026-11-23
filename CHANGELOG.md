@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.5.10 — 2026-11-23
+- New pin: GTA VI Live at Miami Worldcenter (Kanel Joseph public play session, listed Nov 20–23; final day Mon Nov 23).
+
 ## v2.5.9 — 2026-11-18
 - New pin: Welcome to Vice City launch party at Clevelander South Beach, Thu Nov 19, 5–10pm, free, 21+, registration online.
 - Kaseya Center event note: removed blimp mention (Goodyear dropped the Nov 18 date from its schedule).

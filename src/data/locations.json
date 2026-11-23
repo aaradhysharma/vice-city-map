@@ -1,6 +1,6 @@
 {
-  "version": "2.5.9",
-  "updated": "2026-11-18",
+  "version": "2.5.10",
+  "updated": "2026-11-23",
   "theme": "bright-vice",
   "disclaimer": "Marketing + parody IRL prototypes only — no game story spoilers. Matches are fan/press-reported, not Rockstar-official unless noted.",
   "locations": [
@@ -862,6 +862,27 @@
         }
       ],
       "addedOn": "2026-11-18"
+    },
+    {
+      "id": "worldcenter-gta-live",
+      "name": "GTA VI Live at Miami Worldcenter",
+      "realName": "Miami Worldcenter",
+      "parodyOf": null,
+      "category": "event",
+      "lat": 25.7845,
+      "lng": -80.1915,
+      "address": "Miami Worldcenter, Downtown Miami",
+      "whats_here": [
+        "Public GTA VI play session with creator Kanel Joseph: live gameplay, giveaways, Vice City-themed activities",
+        "Listed as running Nov 20–23 (organizer listing, not Rockstar-official)"
+      ],
+      "events": [
+        {
+          "date": "2026-11-23",
+          "title": "Kanel Joseph GTA VI Live (final day)"
+        }
+      ],
+      "addedOn": "2026-11-23"
     }
   ],
   "blimp_schedule": [
