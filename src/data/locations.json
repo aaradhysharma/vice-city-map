@@ -1,6 +1,6 @@
 {
-  "version": "2.5.10",
-  "updated": "2026-11-23",
+  "version": "2.5.11",
+  "updated": "2026-11-25",
   "theme": "bright-vice",
   "disclaimer": "Marketing + parody IRL prototypes only — no game story spoilers. Matches are fan/press-reported, not Rockstar-official unless noted.",
   "locations": [
@@ -41,7 +41,7 @@
       "lng": -80.2389,
       "address": "347 Don Shula Dr, Miami Gardens",
       "whats_here": [
-        "Scheduled Vice City blimp flyovers",
+        "Vice City blimp flyovers were listed; Goodyear's schedule reportedly no longer lists Nov 18/Nov 29 Miami dates (unconfirmed)",
         "GTA stadium ads during games"
       ],
       "events": [
@@ -55,7 +55,7 @@
         },
         {
           "date": "2026-11-29",
-          "title": "Jets @ Dolphins (blimp)"
+          "title": "Jets @ Dolphins (blimp — unconfirmed, Goodyear schedule reportedly dropped this date)"
         }
       ],
       "addedOn": "2026-10-26"
@@ -92,6 +92,7 @@
       "address": "29 NE 11th St, Miami",
       "whats_here": [
         "E11EVEN transforms into NINE1NINE for a month-long takeover (Nov 6–Dec 6)",
+        "Takeover continues through Dec 6; Art Week events Nov 30–Dec 3",
         "Venue signage/branding reimagined as NINE1NINE; merch at nine1nine.club",
         "Club event (not announced by Rockstar)",
         "Sources: E11EVEN / PR Newswire Nov 5; 11miami.com"
@@ -104,6 +105,10 @@
         {
           "date": "2026-11-20",
           "title": "NINE1NINE GTA VI launch party (artist TBA; club event)"
+        },
+        {
+          "date": "2026-11-30",
+          "title": "NINE1NINE Art Week events (Nov 30–Dec 3)"
         },
         {
           "date": "2026-12-06",
@@ -883,6 +888,36 @@
         }
       ],
       "addedOn": "2026-11-23"
+    },
+    {
+      "id": "sweat-annex-gta-album-popup",
+      "name": "Vice City Records pop-up",
+      "realName": "Sweat Annex at Sweat Records",
+      "parodyOf": "Sweat Records → Vice City Records",
+      "category": "shop",
+      "lat": 25.8265,
+      "lng": -80.1927,
+      "address": "5505 NE 2nd Ave, Miami (Little Haiti)",
+      "whats_here": [
+        "\"Grand Theft Auto VI: The Album\" pop-up at the Sweat Annex: album vinyl and CDs, merch, art installations for photos",
+        "Ran Nov 20–22; returns Nov 27–29",
+        "Source: Miami New Times"
+      ],
+      "events": [
+        {
+          "date": "2026-11-27",
+          "title": "Pop-up returns, 10am–5pm"
+        },
+        {
+          "date": "2026-11-28",
+          "title": "Pop-up, noon–7pm"
+        },
+        {
+          "date": "2026-11-29",
+          "title": "Pop-up, noon–5pm"
+        }
+      ],
+      "addedOn": "2026-11-25"
     }
   ],
   "blimp_schedule": [
@@ -909,7 +944,7 @@
     {
       "date": "2026-11-29",
       "venue": "Hard Rock Stadium",
-      "event": "Jets @ Dolphins"
+      "event": "Jets @ Dolphins (unconfirmed — Goodyear schedule reportedly no longer lists this date)"
     }
   ]
 }

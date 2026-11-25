@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.5.11 — 2026-11-25
+- New pin: Vice City Records pop-up (Sweat Annex at Sweat Records, 5505 NE 2nd Ave) — "Grand Theft Auto VI: The Album" pop-up with vinyl/CDs, merch, photo art installations; ran Nov 20–22, returns Nov 27 (10am–5pm), Nov 28 (noon–7pm), Nov 29 (noon–5pm).
+- NINE1NINE pin: takeover continues through Dec 6, Art Week events Nov 30–Dec 3.
+- Blimp notes: Goodyear's schedule reportedly no longer lists Nov 18/Nov 29 Miami dates (unconfirmed; goodyear.com schedule page didn't render for a check).
+
 ## v2.5.10 — 2026-11-23
 - New pin: GTA VI Live at Miami Worldcenter (Kanel Joseph public play session, listed Nov 20–23; final day Mon Nov 23).
 
